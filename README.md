@@ -6,3 +6,5 @@ Note that, the Avalanche CLI does not get installed on some networks, as the net
 To access and run your Solana code on remix u may use this link to open Remix : https://remix.ethereum.org/ .
 
 # Getting Started
+To get started with, you will have to install the Avalanche CLI on to your local system on linux(u can also install and run it using Ubuntu) , u may use this link for installation: https://docs.avax.network/tooling/cli-guides/install-avalanche-cli . Once installed by following the guidlines in the webiste u will have to create your own custom subnet by executing the following commands on your terminal:
+``` avalanche subnet create mySubnet ```
