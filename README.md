@@ -12,7 +12,11 @@ To get started with, you will have to install the Avalanche CLI on to your local
 
 ```avalanche subnet deploy mySubnet```
 
-In these two commands u are creating and deploying your own subnet. Once deployed the details of your subnet will be created and then u can copy paste the code provided in the repository on remix which allows u to intereact wiht the subnet by connecting your metamask wallet to it.
+These two commands are used to create and deploy your own subnet on the avalance CLI. 
+# Getting Output
+Once your Subnet has been created and deployed. u will be provided with the details of the subnet on the terminal. You may use these details and create new network on the metamask wallet which u can use for operating on your subnet.
+
+You may then copy paste the code provided and deplou it on remix. Remember to deploy it on the Injected provided(metamask) server. Then you can connect your metamask wallet to remix and run any fucntions on the remix application and interact with your subnet.
 
 ## Authors
 
